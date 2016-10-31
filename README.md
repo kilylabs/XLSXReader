@@ -1,3 +1,11 @@
+FOR COMPOSER
+==========
+First: use command --- composer require "newlubin/xlsxreader":"dev-master"
+Then: $xlsx = new XLSXReader('sample.xlsx');
+
+Enjoy it!
+
+
 XLSXReader
 ==========
 
